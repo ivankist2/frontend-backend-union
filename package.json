@@ -1,0 +1,16 @@
+{
+  "name": "frontend-backend-union",
+  "version": "1.0.0",
+  "description": "frontend and backend together forever",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/index.js"
+  },
+  "author": "Roman",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
