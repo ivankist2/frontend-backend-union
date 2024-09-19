@@ -2,6 +2,10 @@
   "name": "frontend-backend-union",
   "version": "1.0.0",
   "description": "frontend and backend together forever",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivankist2/frontend-backend-union"
+  },
   "main": "index.js",
   "type": "module",
   "scripts": {
