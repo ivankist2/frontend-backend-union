@@ -9,7 +9,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "concurrently \"node backend/index.js\" \"npm start --prefix frontend\""
+    "start": "concurrently \"npm start --prefix frontend\" \"node backend/index.js\""
   },
   "author": "Roman",
   "license": "ISC",
