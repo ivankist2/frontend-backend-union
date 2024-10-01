@@ -6,5 +6,5 @@ COPY . .
 RUN npm install -g npm@10.8.3
 RUN npm install
 RUN npm install --prefix ./frontend
-EXPOSE 3001
+EXPOSE 3000
 CMD npm start
